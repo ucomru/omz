@@ -1,5 +1,5 @@
 # Oh My Zsh simple dark theme based on ANSI colors
-# Best use with iTerm 2 + Dracula theme
+# Best use with iTerm 2 (Dracula theme)
 # Apr 2023, Tim
 
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg[green]%}"
