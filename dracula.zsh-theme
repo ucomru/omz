@@ -1,6 +1,8 @@
-# Oh My Zsh simple dark theme based on ANSI colors
+# Dracula inspired Oh-My-Zsh simple dark theme
+# Oh-My-Zsh simple dark theme based on ANSI colors
 # Best use with iTerm 2 (Dracula theme)
-# Apr 2023, Tim
+#
+# Apr 2023, Tim U
 
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg[green]%}"
 ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%} "
@@ -23,3 +25,4 @@ $(git_prompt_info)$(venv_prompt_info)
 
 RPROMPT="%(?,,%{$fg[red]%}%?%{$reset_color%}) \
 %{$fg[blue]%}%*%{$reset_color%}"
+
