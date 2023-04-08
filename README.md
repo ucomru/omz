@@ -1,15 +1,19 @@
 # Dracula inspired Oh-My-Zsh simple dark theme
 
-Oh-My-Zsh simple dark theme based on ANSI colors
+Oh-My-Zsh simple dark theme based on ANSI colors.
 
-Best use with iTerm 2 (Dracula theme)
+Tested on Mac OS, Linux, Unix.
+
+Best use with iTerm 2 (Dracula theme).
 
 ## Install
 
 Move `dracula.zsh-theme` file to folder `~/.oh-my-zsh/custom/themes/dracula.zsh-theme`
 
-    curl -fsSLO --create-dirs --output-dir ~/.oh-my-zsh/custom/themes \
-        https://raw.github.com/ucomru/omz/master/dracula.zsh-theme
+```
+curl -fsSLO --create-dirs --output-dir ~/.oh-my-zsh/custom/themes \
+    https://raw.github.com/ucomru/omz/master/dracula.zsh-theme
+```
 
 ## Activating theme
 

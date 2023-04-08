@@ -25,4 +25,3 @@ $(git_prompt_info)$(venv_prompt_info)
 
 RPROMPT="%(?,,%{$fg[red]%}%?%{$reset_color%}) \
 %{$fg[blue]%}%*%{$reset_color%}"
-
